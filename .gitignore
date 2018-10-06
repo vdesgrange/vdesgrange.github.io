@@ -1,0 +1,5 @@
+_drafts/*
+_site/*
+images/posts/*
+.sass-cache/*
+.DS_Store
