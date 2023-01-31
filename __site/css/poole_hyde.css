@@ -250,6 +250,14 @@ html {
 }
 
 /*
+ * Home
+ */
+
+.custom-item {
+  margin-left: 1rem;
+}
+
+/*
  * Card
  */
 
@@ -259,16 +267,24 @@ html {
 
 .card-logo {
   box-sizing: inherit;
-  width: 225px;
+  width: 48px;
+  margin-right: 1rem;
+  /* width: 225px; */
 }
 
 .card-logo img {
+  width: 48px;
+  height: 48px;
   display: block;
-  max-width: 100%;
+  width: 100%;
   margin: 0 0 1rem;
   border-radius: 5px;
+  padding: 0px;
 }
 
+.card-description {
+  flex: 1;
+}
 .card-title {
   font-weight: bold;
   display: flex !important;
@@ -288,6 +304,22 @@ html {
 .card-text {
   margin-top: 1rem;
   display: flex !important;
+}
+
+/*
+ * Projects
+ */
+
+.gallery {
+  display: flex !important;
+}
+
+.gallery-card {
+  flex: 1;
+}
+
+.gallery-card img {
+  width: 100%;
 }
 /*
  * Sidebar
