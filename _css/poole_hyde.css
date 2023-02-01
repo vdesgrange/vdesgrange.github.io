@@ -290,9 +290,11 @@ html {
   display: flex !important;
 }
 
-.card-subtitle {
+.card-subtitle, .card-subtitle a {
   font-weight: normal;
   display: flex !important;
+  color: #515151;
+  text-decoration: none;
 }
 
 .card-timeline {

@@ -19,20 +19,25 @@ tags = ["resume"]
     </div>
     <div class="card-description">
     <span class="card-title">Research intern</span>
-    <span class="card-subtitle">Centrum Wiskunde & Informatica - Full-time</span>
+    <span class="card-subtitle"><a href="https://www.cwi.nl">Centrum Wiskunde & Informatica</a> · Full-time</span>
     <span class="card-timeline">February 2022 - December 2022</span>
     <span class="card-location">Amsterdam, The Netherlands</span>
     <p class="card-text">
     CWI is the national research institute for mathematics & computer science in the Netherlands, based in Amsterdam.<br />
-
-    Research intern working in collaboration with the Computational Imaging and Scientific computing research groups. Field of work focus on the inverse problem aspects of discretization methodology to use in the context of fluid flow closure modelling.
+    </p>
+    <p>
+    Research intern working in collaboration with the 
+    <a href="https://www.cwi.nl/en/groups/computational-imaging/">Computational Imaging</a> and 
+    <a href="https://www.cwi.nl/en/groups/scientific-computing/">Scientific Computing</a> research groups. 
+    Field of work focused on the inverse problem aspects of the mathematical methodology developed in the context of fluid flows closure modelling.
     </p>
 
     <p>
-      Topics: Inverse problem, closure model, sensitivity analysis, differential equations, automatic differentiation, neural network
-    </p>
-    <p>
-      Technologies: Python, Julia, SciML Ecosystem
+      Topics:
+      <ul>
+      <li>Theory: Inverse problem, closure model, sensitivity analysis, differential equations, automatic differentiation, neural network</li>
+      <li>Tools: Julia, SciML Ecosystem</li>
+      </ul>
     </p>
     </div>
     <div style="clear: both"></div>
@@ -48,7 +53,7 @@ tags = ["resume"]
     </div>
     <div class="card-description">
     <span class="card-title">Research intern</span>
-    <span class="card-subtitle">Grab - Full-time</span>
+    <span class="card-subtitle"><a href="https://www.grab.com/sg/">Grab</a> · Full-time</span>
     <span class="card-timeline">May 2018 - August 2020</span>
     <span class="card-location">Singapore</span>
     <p class="card-text">
@@ -109,8 +114,9 @@ tags = ["resume"]
     </div>
     <div class="card-description">
     <span class="card-title">Front-End Software Engineer</span>
-    <span class="card-subtitle">Niometrics - Full-time</span>
+    <span class="card-subtitle"><a href="https://www.mobileum.com/">Niometrics / Mobileum</a> · Full-time</span>
     <span class="card-timeline">May 2016 - April 2018</span>
+    <span class="card-location">Singapore</span>
     <p class="card-text">
     Working on Deep Networks Analytic Solution, real-time network visualisation and analytics<br />
 
@@ -153,11 +159,23 @@ tags = ["resume"]
     <span class="card-title">University of Amsterdam</span>
     <span class="card-subtitle">MSc Computational Science</span>
     <span class="card-timeline">September 2020 - January 2023</span>
+    <span class="card-location">Amsterdam, The Netherlands</span>
+
     <p class="card-text">
-    Deep Learning, Data-driven modelling, Fluid dynamics, 
-    Reduce order models, Parallel and distributed computing, 
-    Modelling and simulation of real life applications, 
-    Computer Vision, Inverse imaging problems, Advanced numerical algorithms
+      Joint degree programme of the University of Amsterdam and Vrije Universiteit Amsterdam.
+    </p>
+
+    <p>
+    Computational Science at its core involves the development of models and simulations to understand natural systems.
+    Main focus on scientific computing through advanced numerical algorithms applied to fluid flows.
+    </p>
+
+    <p>
+    Topics:<br />
+      Fluid flows, reduced order models, Inverse problems,<br />
+      Data-driven modelling, Advanced numerical algorithms, Deep Learning, <br />
+      Parallel and distributed computing, Computer Vision, <br />
+      Modelling and simulation of real life applications
     </p>
     </div>
     <div style="clear: both"></div>
@@ -175,6 +193,7 @@ tags = ["resume"]
     <span class="card-title">Institut national des Sciences appliquées de Rouen</span>
     <span class="card-subtitle">Engineering Degree, MSc Software Engineering</span>
     <span class="card-timeline">September 2011 - September 2016</span>
+    <span class="card-location">Rouen, France</span>
     <p class="card-text">
     Studied at National Institute of Applied Sciences - Engineering College<br />
     Composed of two cycles :<br />
@@ -199,6 +218,7 @@ tags = ["resume"]
     <span class="card-title">Korea Advanced Institute of Science and Technology</span>
     <span class="card-subtitle">Exchange Semester - School of Computing</span>
     <span class="card-timeline">2015</span>
+    <span class="card-location">Daejon, South Korea</span>
     <p class="card-text">
       Exchange semester in South Korea at KAIST<br />
       Graph Theory, Artificial Intelligence, Databases
