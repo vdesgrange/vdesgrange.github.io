@@ -157,7 +157,7 @@ tags = ["resume"]
     </div>
     <div class="card-description">
     <span class="card-title">University of Amsterdam</span>
-    <span class="card-subtitle">MSc Computational Science</span>
+    <span class="card-subtitle"><a href="https://www.uva.nl/shared-content/programmas/en/masters/computational-science/computational-science.html?origin=znSrDUT%2BQ5uz6dso72fBmw">MSc Computational Science</a></span>
     <span class="card-timeline">September 2020 - January 2023</span>
     <span class="card-location">Amsterdam, The Netherlands</span>
 
@@ -191,7 +191,7 @@ tags = ["resume"]
     </div>
     <div class="card-description">
     <span class="card-title">Institut national des Sciences appliquées de Rouen</span>
-    <span class="card-subtitle">Engineering Degree, MSc Software Engineering</span>
+    <span class="card-subtitle"><a href="https://www.insa-rouen.fr/formation/specialites-ingenieurses/informatique-et-technologie-de-linformation">Engineering Degree, MSc Software Engineering</a></span>
     <span class="card-timeline">September 2011 - September 2016</span>
     <span class="card-location">Rouen, France</span>
     <p class="card-text">
