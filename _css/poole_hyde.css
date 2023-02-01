@@ -265,6 +265,11 @@ html {
   display: flex;
 }
 
+.card a {
+  color: #515151;
+  text-decoration: none;
+}
+
 .card-logo {
   box-sizing: inherit;
   width: 48px;

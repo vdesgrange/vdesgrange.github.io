@@ -19,7 +19,7 @@ tags = ["resume"]
     </div>
     <div class="card-description">
     <span class="card-title">Research intern</span>
-    <span class="card-subtitle"><a href="https://www.cwi.nl">Centrum Wiskunde & Informatica</a> · Full-time</span>
+    <span class="card-subtitle"><a href="https://www.cwi.nl">Centrum Wiskunde & Informatica</a> &#160;· &#160;Full-time</span>
     <span class="card-timeline">February 2022 - December 2022</span>
     <span class="card-location">Amsterdam, The Netherlands</span>
     <p class="card-text">
@@ -52,8 +52,8 @@ tags = ["resume"]
       <img class="left" width="48px" height="48px" src="/assets/logos/grab_logo.jpg">
     </div>
     <div class="card-description">
-    <span class="card-title">Research intern</span>
-    <span class="card-subtitle"><a href="https://www.grab.com/sg/">Grab</a> · Full-time</span>
+    <span class="card-title">Full-Stack Software Engineer</span>
+    <span class="card-subtitle"><a href="https://www.grab.com/sg/">Grab</a> &#160;· &#160;Full-time</span>
     <span class="card-timeline">May 2018 - August 2020</span>
     <span class="card-location">Singapore</span>
     <p class="card-text">
@@ -114,7 +114,7 @@ tags = ["resume"]
     </div>
     <div class="card-description">
     <span class="card-title">Front-End Software Engineer</span>
-    <span class="card-subtitle"><a href="https://www.mobileum.com/">Niometrics / Mobileum</a> · Full-time</span>
+    <span class="card-subtitle"><a href="https://www.mobileum.com/">Niometrics / Mobileum</a> &#160;· &#160;Full-time</span>
     <span class="card-timeline">May 2016 - April 2018</span>
     <span class="card-location">Singapore</span>
     <p class="card-text">
@@ -171,11 +171,13 @@ tags = ["resume"]
     </p>
 
     <p>
-    Topics:<br />
-      Fluid flows, reduced order models, Inverse problems,<br />
-      Data-driven modelling, Advanced numerical algorithms, Deep Learning, <br />
-      Parallel and distributed computing, Computer Vision, <br />
-      Modelling and simulation of real life applications
+    Topics:
+      <ul>
+        <li>Fluid flows, reduced order models, Inverse problems,</li>
+        <li>Data-driven modelling, Advanced numerical algorithms, Deep Learning, </li>
+        <li>Parallel and distributed computing, Computer Vision, </li>
+        <li>Modelling and simulation of real life applications</li>
+      </ul>
     </p>
     </div>
     <div style="clear: both"></div>
@@ -196,7 +198,7 @@ tags = ["resume"]
     <span class="card-location">Rouen, France</span>
     <p class="card-text">
     Studied at National Institute of Applied Sciences - Engineering College<br />
-    Composed of two cycles :<br />
+    Composed of two cycles:<br />
     <ul>
       <li>2011 - 2013 : "Grandes Ecoles" preparatory classes</li>
       <li>2013 - 2016 : Engineering cycle into "Architecture of Information Systems" department : signal processing, operating systems, databases, statistics, electronic, automatic, data mining, machine learning, image processing, network, web technologies.</li>
