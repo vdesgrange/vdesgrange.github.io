@@ -22,7 +22,22 @@ Snapshots of the Grab superapp to which I contributed as a software engineer.
 My work involved the back-end development of the communication services used by the customers,
 drivers and company employees to communicate through the app.
 
+### Niometrics (now Mobileum)
 
+Snapshots of the user interface to which I contributed as a front-end software engineer.
+
+~~~
+<div class="gallery">
+  <div class="gallery-card">
+    <img style="padding-left:0%" src="/assets/nio/censored_map.png" />
+  </div>
+</div>
+<div class="gallery">
+  <div class="gallery-card">
+    <img style="padding-left:0%" src="/assets/nio/user_censored.png" />
+  </div>
+</div>
+~~~
 ## Academic & Personal
 
 ### Master thesis - Centrum Wiskunde & Informatica
