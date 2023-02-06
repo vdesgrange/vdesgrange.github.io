@@ -75,3 +75,22 @@ Snapshots of the user interface to which I contributed as a front-end software e
 
 
 See [here](/assets/cwi/draft.pdf) for complete document
+
+### H2VK - Vulkan based educational graphic engine
+
+Personal project done to refresh knowledge with modern C++17, gather knowledge about the Vulkan cross-platform API and work with GPU.
+A long term goal would be to render fluid flows solutions combined with PINN.
+
+~~~
+<div class="gallery">
+  <div class="gallery-card">
+    <img style="padding-left:0%" src="/assets/h2vk/gold.png" />
+  </div>
+</div>
+
+<div class="gallery">
+  <div class="gallery-card">
+    <img style="padding-left:0%" src="/assets/h2vk/helmet.png" />
+  </div>
+</div>
+~~~
