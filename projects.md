@@ -78,8 +78,8 @@ See [here](/assets/cwi/draft.pdf) for complete document
 
 ### H2VK - Vulkan based educational graphic engine
 
-Personal project done to refresh knowledge with modern C++17, gather knowledge about the Vulkan cross-platform API and work with GPU.
-A long term goal would be to render fluid flows solutions combined with PINN.
+A personal project done to refresh modern C++ skills, gather knowledge about the Vulkan cross-platform API and work with GPU.
+A long term goal would be to render fluid flows solutions combined with PINN. Source are available [here](https://github.com/vdesgrange/h2vk).
 
 ~~~
 <div class="gallery">
