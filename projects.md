@@ -84,13 +84,13 @@ A long term goal would be to render fluid flows solutions combined with PINN. So
 ~~~
 <div class="gallery">
   <div class="gallery-card">
-    <img style="padding-left:0%" src="/assets/h2vk/gold.png" />
+    <img style="padding-left:0%" src="/assets/h2vk/gold2.png" />
   </div>
 </div>
 
 <div class="gallery">
   <div class="gallery-card">
-    <img style="padding-left:0%" src="/assets/h2vk/helmet.png" />
+    <img style="padding-left:0%" src="/assets/h2vk/helmet2.png" />
   </div>
 </div>
 ~~~
